@@ -7,17 +7,15 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain+!%3D+empty)+%7B++keepCoding()++%7D+;else+%7B++orderCoffee()++%7D)](https://git.io/typing-svg) -->
 </div>
 
- <img align="right" alt="coding" width="350" height="230" marginTop="100" src="https://camo.githubusercontent.com/e2f1962855098d77ac22977e9870ba19d43a10c3e46323a31e09727b68f8d37f/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132"/>
+ 
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanijpatil&label=Profile%20views&color=0e75b6&style=flat" alt="shivanijpatil" /> </p>
-
-- 🌱 I’m currently learning **Nodejs**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **shivanipatil786@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hUD-L4lh6JDI8t7Q7gOdbKemHVDt-hF7/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/19dV5qRV-wqAYfqGLPPxFBzvXQKM-YNMI/view?usp=sharing">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -59,4 +57,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanijpatil&show_icons=true&locale=en" alt="shivanijpatil" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanijpatil&" alt="shivanijpatil" /></p>
+

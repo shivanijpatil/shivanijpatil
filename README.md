@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shivanipatil786@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/19dV5qRV-wqAYfqGLPPxFBzvXQKM-YNMI/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1izXOAijvfveRP4m9Nto_J6z6X4UssjvF/view?usp=sharing">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
